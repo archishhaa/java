@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 4{
+public class 4 {
 
     /**
      * Problem Statement:
